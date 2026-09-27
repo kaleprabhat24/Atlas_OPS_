@@ -1,0 +1,5 @@
+# Place trained model files here:
+# - fraud_model.pkl
+# - failure_model.pkl
+# - routing_model.pkl
+# The app auto-discovers these at startup and falls back to stub models if absent.
